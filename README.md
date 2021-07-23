@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, This is Ben Marzouk Ghailene.
 
 <!--
 **ghailen/ghailen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey 👋, This is Ben Marzouk Ghailene.
+### About Me 
 
 My name is Ben Marzouk Ghailene and I'm a software developer/engineer. I'm from Tunisia and currently working at sofrecom.
