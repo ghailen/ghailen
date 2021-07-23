@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 Hey 👋, This is Ben Marzouk Ghailene.
 
-My name is Ben Marzouk Ghailene and I'm a software developer/engineer. I'm from Tunisia and currently working at sofrecom tunisia.![image](https://user-images.githubusercontent.com/36199753/126843066-1115ab1b-307a-4a3f-867d-84ba25816806.png)
-
+My name is Ben Marzouk Ghailene and I'm a software developer/engineer. I'm from Tunisia and currently working at sofrecom tunisia.
